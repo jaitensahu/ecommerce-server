@@ -1,0 +1,6 @@
+Modules of eCommerce
+user -> Registration, Login, Logout etc.
+Product -> Product List, Product details, CRUD product etc,
+Inventry -> Managging stocks;
+Checkout -> cart checkout form , placing an order etc.
+Payments -> Payments refunds etc
